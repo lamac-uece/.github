@@ -1,6 +1,6 @@
-<center>
-  <img src="assets/logo-uece-small.png" width="200px">
-</center>
+<p align="center">
+  <img src="assets/logo-uece-small.png" width="200px"/>
+</p>
 
 <h2>Universidade Estadual do Ceará - UECE</h2>
 <h1>Laboratório de Matemática Computacional - LaMaC</h1>
