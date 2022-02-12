@@ -26,7 +26,6 @@ Laboratório do mestrado acadêmico da UECE, com linhas de pesquisa baseadas em 
 
 ## Linhas de pesquisa
 
-- Matemática Computacional
 - Aprendizado Profundo (Deep Learning)
 - Reconhecimento e classificação de imagens, voz e fala
 - Processamento Digital de Imagens
@@ -60,7 +59,7 @@ Nosso laboratório possui 4 máquinas com excelente processamento, utilizando di
 
 ## Equipe
 
-[Prof. Dr. Thelmo Araújo](http://lattes.cnpq.br/3978299887398475)
+[Dr. Thelmo de Araújo](http://lattes.cnpq.br/3978299887398475)
 
 > Docente responsável pelo laboratório. Chefe de pesquisa e de projetos.
 
