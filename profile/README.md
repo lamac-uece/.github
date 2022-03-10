@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0">
-  <img src="profile/assets/logo-uece-small.png" width="200px"/>
+  <img src="profile/assets/logotipo_lamac.png" width="200px"/>
 </p>
 
 <div align="center">
