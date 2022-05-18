@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0">
-  <img src="profile/assets/logotipo_lamac.png" width="200px" style="border-radius: 18px"/>
+  <img src="profile/assets/logotipo_lamac_black.png" width="400px" style="border-radius: 18px"/>
 </p>
 
 <div align="center">
