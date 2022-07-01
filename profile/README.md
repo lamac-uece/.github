@@ -66,3 +66,7 @@ Nosso laboratório possui 4 máquinas com excelente processamento, utilizando di
 [Gabriel Lins](http://lattes.cnpq.br/0989380563059737)
 
 > Discente de graduação. Pesquisador na área de Processamento Digital de Imagens.
+
+[Victor Wilker](http://lattes.cnpq.br/9118063927519322)
+
+> Discente de graduação. Pesquisador na área de Processamento Digital de Imagens e Inteligência Artificial.
