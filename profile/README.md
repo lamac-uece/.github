@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0">
-  <img src="profile/assets/logotipo_lamac_black.png" width="400px" style="border-radius: 18px"/>
+  <img src="profile/assets/logotipo_lamac_black-uece.png" width="600px" style="border-radius: 18px"/>
 </p>
 
 <div align="center">
@@ -12,61 +12,98 @@
 <h2>Índice</h2>
 
 - [Sobre o laboratório](#sobre-o-laboratório)
-- [Linhas de pesquisa](#linhas-de-pesquisa)
+- [Áreas de pesquisa](#áreas-de-pesquisa)
 - [Fundamentos teóricos](#fundamentos-teóricos)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Infraestrutura](#infraestrutura)
+    - [Base Matemática](#base-matemática)
+    - [Base Computacional](#base-computacional)
+- [Tecnologias e Ferramentas](#tecnologias-e-ferramentas)
+    - [Linguagens de Programação](#linguagens-de-programação)
+    - [Bibliotecas e Frameworks](#bibliotecas-e-frameworks)
+    - [Outras Ferramentas](#outras-ferramentas)
 - [Equipe](#equipe)
+- [Endereço](#endereço)
 
 ---
 
 ## Sobre o laboratório
 
-Laboratório do mestrado acadêmico da UECE, com linhas de pesquisa baseadas em Matemática Computacional.
+O Laboratório de Matemática Computacional (LaMaC) faz parte do [Programa de Pós Graduação em Ciência da Computação](http://www.uece.br/ppgcc/) da UECE. Com linhas de pesquisa baseadas em Matemática Computacional, o laboratório produz publicações científicas, bem como desenvolve técnicas e ferramentas com aplicações, por exemplo, nas áreas da saúde e nutrição.
 
-## Linhas de pesquisa
+## Áreas de pesquisa
 
-- Aprendizado Profundo (Deep Learning)
-- Reconhecimento e classificação de imagens, voz e fala
+- Análise de Dados
+- Aprendizado Profundo (*Deep Learning*)
+- Computação Gráfica
 - Processamento Digital de Imagens
+- Visão Computacional
 
 ## Fundamentos teóricos
 
-Entre nossas ferramentas teóricas estudadas para sua aplicação nas [linhas de pesquisa](#linhas-de-pesquisa), podemos destacar:
+Do ferramental teórico estudado para sua aplicação nas [áreas de pesquisa](#áreas-de-pesquisa), podemos destacar:
+
+#### Base Matemática
 
 - Álgebra Linear
-- Morfologia Matemática
-- Geometria Computacional
 - Cálculos I, II e III
 - Cálculo Numérico
+- Estatística
+- Geometria Analítica
 - Matemática Discreta
+- Métodos Numéricos
+- Morfologia Matemática
 
-## Tecnologias utilizadas
+#### Base Computacional
 
-Dentre as diversas tecnologias que utilizamos nos projetos de pesquisa, podemos destacar:
+- Algoritmos e Estruturas de Dados
+- Análise de Dados
+- Computação Gráfica
+- Geometria Computacional
+- Grafos
+- Redes Neurais Artificiais
 
-- Matlab | Octave
+## Tecnologias e Ferramentas
+
+Dentre as diversas tecnologias, ferramentas e bibliotecas que utilizamos, podemos destacar:
+
+#### Linguagens de Programação
+
 - Python
+- C
+- C++
+- Matlab
+- Octave
+
+#### Bibliotecas e Frameworks
+
 - NumPy | SciPy
 - OpenCV | scikit-image
 - TensorFlow | PyTorch | Keras
+- OpenGL | PySide2
+- Pandas
 
-## Infraestrutura
+#### Outras Ferramentas
 
-Dispomos de um laboratório físico localizado no [mestrado acadêmico de ciência da computação](http://www.uece.br/ppgcc/) da UECE.
-
-Nosso laboratório possui 4 máquinas com excelente processamento, utilizando distribuições Linux como sistemas operacionais.
+- Jupyter Notebook
+- LaTeX
 
 ## Equipe
 
-[Dr. Thelmo de Araújo](http://lattes.cnpq.br/3978299887398475)
+[Thelmo de Araújo, Ph.D](http://lattes.cnpq.br/3978299887398475)
 
 > Docente responsável pelo laboratório. Chefe de pesquisa e de projetos.
 
-[Gabriel Lins](http://lattes.cnpq.br/0989380563059737)
+[Domingos Bruno, B.Sc](http://lattes.cnpq.br/2071492934254307)
 
-> Discente de graduação. Pesquisador na área de Processamento Digital de Imagens.
+> Discente de Mestrado. Pesquisador nas áreas de Processamento Digital de Imagens, Aprendizado Profundo e Ciência de Dados.
 
-[Victor Wilker](http://lattes.cnpq.br/9118063927519322)
+[Gabriel Lins, B.Sc](http://lattes.cnpq.br/0989380563059737)
 
-> Discente de graduação. Pesquisador na área de Processamento Digital de Imagens e Inteligência Artificial.
+> Discente de Mestrado. Pesquisador nas áreas de Processamento Digital de Imagens e Aprendizado Profundo.
+
+[Alberto Luian](http://lattes.cnpq.br/9709130130037571)
+
+> Discente de Graduação. Pesquisador na área de Processamento Digital de Imagens.
+
+## Endereço
+
+O LaMaC dispõe de um laboratório físico localizado no prédio do [Programa de Pós Graduação em Ciência da Computação](http://www.uece.br/ppgcc/) da UECE.
