@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0">
-  <img src="profile/assets/logotipo_lamac_black-uece.png" width="600px" style="border-radius: 18px"/>
+  <img src="profile/assets/logotipo_lamac_black-removebg.png" width="600px" style="border-radius: 18px"/>
 </p>
 
 <div align="center">
@@ -92,9 +92,9 @@ Dentre as diversas tecnologias, ferramentas e bibliotecas que utilizamos, podemo
 
 > Docente responsável pelo laboratório. Chefe de pesquisa e de projetos.
 
-[Domingos Bruno, B.Sc](http://lattes.cnpq.br/2071492934254307)
+[Domingos Bruno, MS](http://lattes.cnpq.br/2071492934254307)
 
-> Discente de Mestrado. Pesquisador nas áreas de Processamento Digital de Imagens, Aprendizado Profundo e Ciência de Dados.
+> Mestre. Pesquisador nas áreas de Processamento Digital de Imagens, Aprendizado Profundo e Ciência de Dados.
 
 [Gabriel Lins, B.Sc](http://lattes.cnpq.br/0989380563059737)
 
