@@ -2,9 +2,11 @@
   <img src="profile/assets/logo-blue-transparent.svg" width="600px" style="border-radius: 18px"/>
 </p>
 
-<div align="center">
-  <h2 style="margin: 0 auto">Universidade Estadual do Ceará - UECE</h2>
-  <h1>Laboratório de Matemática Computacional - LaMaC</h1>
+<div align="center" style="color: #0d7797">
+  <h2 style="margin: 0 auto; color: #0d7797">Universidade Estadual do Ceará - UECE</h2>
+  <h1 style="color: #0d7797">Laboratório de Matemática Computacional - LaMaC</h1>
+  <p>Para mais informações, acesse nossa página web:</p>
+  <a href="https://lamac-uece.github.io/">https://lamac-uece.github.io/</a>
 </div>
 
 ---
@@ -12,7 +14,7 @@
 <h2>Índice</h2>
 
 - [Sobre o laboratório](#sobre-o-laboratório)
-- [Áreas de pesquisa](#áreas-de-pesquisa)
+- [Linhas de pesquisa](#linhas-de-pesquisa)
 - [Fundamentos teóricos](#fundamentos-teóricos)
     - [Base Matemática](#base-matemática)
     - [Base Computacional](#base-computacional)
@@ -27,15 +29,16 @@
 
 ## Sobre o laboratório
 
-O Laboratório de Matemática Computacional (LaMaC) faz parte do [Programa de Pós Graduação em Ciência da Computação](http://www.uece.br/ppgcc/) da UECE. Com linhas de pesquisa baseadas em Matemática Computacional, o laboratório produz publicações científicas, bem como desenvolve técnicas e ferramentas com aplicações, por exemplo, nas áreas da saúde e nutrição.
+O Laboratório de Matemática Computacional (LaMaC), vinculado ao curso de Ciência da Computação do Centro de Ciências e Tecnologia (CCT) da [Universidade Estadual do Ceará (UECE)](https://www.uece.br/), foi fundado em 2008 pelo Professor associado [Thelmo Pontes de Araújo](https://www.escavador.com/sobre/2736522/thelmo-pontes-de-araujo), PhD, do curso de Matemática.
 
-## Áreas de pesquisa
+O laboratório concentra suas principais atividades no desenvolvimento de software científico e pesquisas nas áreas de Inteligência Computacional (aprendizado profundo), Processamento de Imagens e Computação Gráfica. Para a condução efetiva das atividades de pesquisa, empregamos diversas disciplinas da matemática e suas implementações computacionais, tais como Álgebra Linear, Cálculo, Métodos Numéricos, Geometria Analítica, Matemática Discreta, entre outras.
 
-- Análise de Dados
+## Linhas de pesquisa
+
 - Aprendizado Profundo (*Deep Learning*)
 - Computação Gráfica
-- Processamento Digital de Imagens
-- Visão Computacional
+- Processamento de Imagens
+- Análise de Dados
 
 ## Fundamentos teóricos
 
@@ -98,11 +101,23 @@ Dentre as diversas tecnologias, ferramentas e bibliotecas que utilizamos, podemo
 
 [Gabriel Lins, B.Sc](http://lattes.cnpq.br/0989380563059737)
 
-> Discente de Mestrado. Pesquisador nas áreas de Processamento Digital de Imagens e Aprendizado Profundo.
+> Discente de Mestrado. Pesquisador nas áreas de Processamento Digital de Imagens, Computação Gráfica e Aprendizado Profundo.
 
 [Alberto Luian](http://lattes.cnpq.br/9709130130037571)
 
-> Discente de Graduação. Pesquisador na área de Processamento Digital de Imagens.
+> Discente de Graduação. Pesquisador na área de Processamento Digital de Imagens e Aprendizado Profundo.
+
+Victor Wilker
+
+> Discente de Graduação.
+
+Diogo Nascimento
+
+> Discente de Graduação. Pesquisador na área de Aprendizado Profundo.
+
+Carlos Estelita
+
+> Discente de Graduação. Pesquisador na área de Aprendizado Profundo e Agentes Inteligentes.
 
 ## Endereço
 
